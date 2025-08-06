@@ -47,6 +47,9 @@
       ]
     }
   },
+  "window": {
+    "stayAwake": true
+  },
   "i18n": {
     "en-US": {
       "appName": "TOTPFit"
